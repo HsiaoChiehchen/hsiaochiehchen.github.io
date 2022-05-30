@@ -1,0 +1,39 @@
+
+html {
+    background: #E0E0E0;
+    background-image: #FFF3EE(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%)
+}
+body{
+    background: #FFFFFF;
+    color: #222;
+    font-family: "cwTeXFangSong";
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 2em 2em 4em;
+}
+
+
+
+h1{text-align:center;
+    background-color:#F0F0F0；
+    color: #8E8E8E;
+    font-family："cwTeXFangSong", "Arial","LiHei Pro","黑體-繁","微軟正黑體"
+    margin-top: 1.3em
+}
+
+
+
+p {
+    text-align:center;
+    font-family："cwTeXFangSong";
+    color:#4F4F4F
+}
+
+
+
+
+
+
+
