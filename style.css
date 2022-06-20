@@ -3,6 +3,9 @@ html {
     background: #F0F0F0;
     background-image: #FFF3EE(20%)
 }
+ul li{
+list-style-type:none;
+}
 a {
   display: block;
   text-decoration: none;
