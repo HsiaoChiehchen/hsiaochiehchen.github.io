@@ -81,7 +81,10 @@ h1 {text-align:center;
 }
 
 h2 {
-    margin-top: 1.3em;
+    border-style:ridge;
+    border-width:3px;
+    border-color:white;
+text-align:center
 }
 
 ul{
